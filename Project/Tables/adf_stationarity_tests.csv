@@ -1,0 +1,4 @@
+Variable,ADF Statistic,p-value,Stationary at 5%
+cpu_usage,-16.893627007776512,1.0405251487543323e-29,True
+memory_usage,-32.94553469395987,0.0,True
+utilization,-31.58569222811704,0.0,True
