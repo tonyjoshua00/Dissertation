@@ -1,0 +1,8 @@
+Predictor,Coefficient
+How confident do you feel using online services and apps in general?,-0.1256061608769152
+"When an online service runs slowly or goes down, how much does it affect you?",0.060156788307896836
+How important is it to you that the online services you use are fast and always available?,0.09867523297215072
+How much do you trust that your online service provider manages their systems responsibly to keep things running smoothly?,0.4081416898238368
+How important is it to you that the technology companies you rely on are using their computing resources efficiently and sustainably? For example: not running unnecessary servers that waste energy,0.05290401122366528
+Intercept,1.8506143440879423
+R2,0.2088667892855126

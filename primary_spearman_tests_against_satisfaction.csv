@@ -1,0 +1,6 @@
+Variable,Compared With,Spearman rho,p-value,Significant at 5%
+How confident do you feel using online services and apps in general?,"Overall, how satisfied are you with the reliability of the online services you use most?",0.13906394776973194,0.21276082249010936,False
+"When an online service runs slowly or goes down, how much does it affect you?","Overall, how satisfied are you with the reliability of the online services you use most?",0.19182009742328684,0.08427375999707853,False
+How important is it to you that the online services you use are fast and always available?,"Overall, how satisfied are you with the reliability of the online services you use most?",0.3079503280679854,0.004884660799024964,True
+How much do you trust that your online service provider manages their systems responsibly to keep things running smoothly?,"Overall, how satisfied are you with the reliability of the online services you use most?",0.3990009170927194,0.0002047366952583692,True
+How important is it to you that the technology companies you rely on are using their computing resources efficiently and sustainably? For example: not running unnecessary servers that waste energy,"Overall, how satisfied are you with the reliability of the online services you use most?",0.23362178883066612,0.03465355727019276,True
